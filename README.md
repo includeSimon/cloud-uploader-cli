@@ -56,7 +56,3 @@ This Bash script enables you to upload files to AWS S3 using the AWS Command Lin
 - **Region Selection**: Prompts the user to select a region from the available list.
 - **Bucket Handling**: Creates or uses an S3 bucket and lists existing buckets.
 - **File Handling**: Checks for file existence, manages overwriting, skipping, renaming, and generates shareable links.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
